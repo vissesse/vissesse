@@ -5,6 +5,7 @@
   <img heiht="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vissesse&layout=compact&langs_count=16&theme=dark" />
 </div>
 <div ><br> 
+  <a href="https://github.com/vissesse">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
