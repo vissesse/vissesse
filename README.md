@@ -1,4 +1,4 @@
-## Hi, i'am <a href="https://github.com/vissesse">Carlos Vissesse</a>
+## Hi, I'm <a href="https://github.com/vissesse">Carlos Vissesse</a>
 
 <div>
     <a href="https://github.com/vissesse">
