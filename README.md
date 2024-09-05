@@ -1,4 +1,4 @@
-## Hi!, Iam <a href="https://github.com/vissesse">Carlos Vissesse</a>. Well come to my github profile
+## Hello, I'm  <a href="https://github.com/vissesse">Carlos Vissesse</a>. Welcome to my GitHub profile. Feel free to explore my projects and contributions
 
 <div>
     <a href="https://github.com/vissesse">
