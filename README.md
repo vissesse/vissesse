@@ -1,4 +1,4 @@
-# Hello, I'm Carlos Vissesse 👋
+# Hello, it's Carlos Vissesse 👋
 
 Software Engineer & Tech Lead focused on designing and building scalable, reliable, and high-performance software solutions.
 
