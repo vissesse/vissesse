@@ -1,6 +1,4 @@
 ## Hello, I'm  <a href="https://github.com/vissesse">Carlos Vissesse</a>. Welcome to my GitHub profile. Feel free to explore my <a href="https://vissesse.github.io/">projects</a> and contributions
-<div>
-</div>
 <div ><br> <br> 
   <a href="https://github.com/vissesse">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
