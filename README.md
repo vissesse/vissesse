@@ -1,4 +1,22 @@
-## Hello, I'm  <a href="https://github.com/vissesse">Carlos Vissesse</a>. Welcome to my GitHub profile. Feel free to explore my projects and contributions. Find my <a href="https://vissesse.github.io/">portifolio</a> 
+# Hello, I'm Carlos Vissesse 👋
+
+Software Engineer & Tech Lead focused on designing and building scalable, reliable, and high-performance software solutions.
+
+I work mainly with backend architecture, distributed systems, databases, APIs, and modern frontend applications.
+
+My main areas of expertise:
+- Software Architecture & Clean Architecture
+- Backend Development (Node.js, Python, Django)
+- Frontend Development (React, Next.js, TypeScript)
+- Database Design & Optimization (SQL Server, PostgreSQL, MySQL)
+- Test-Driven Development (TDD)
+- Domain-Driven Design (DDD)
+
+Here you can find my projects, experiments, and contributions.
+
+🌐 Portfolio: <a href="https://vissesse.github.io/">@vissesse</a> 
+💼 LinkedIn: <a href="linkedin.com/in/vissesse">@in/vissesse</a>
+
 <div ><br> <br> 
   <a href="https://github.com/vissesse">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
