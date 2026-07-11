@@ -14,11 +14,9 @@ My main areas of expertise:
 
 Here you can find my projects, experiments, and contributions.
 
-🌐 Portfolio: <a href="https://vissesse.github.io/">@vissesse</a> 
-</br>
+🌐 Portfolio: <a href="https://vissesse.github.io/">@vissesse</a><br>
 💼 LinkedIn: <a href="linkedin.com/in/vissesse">@in/vissesse</a>
-
-<div ><br> <br> 
+<div ><br> 
   <a href="https://github.com/vissesse">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> 
