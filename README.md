@@ -35,6 +35,7 @@ const carlos = {
 
 ---
 ## Stack
+<div align="center">
 
 <table width="100%"> 
  
@@ -79,7 +80,7 @@ const carlos = {
     </td>
   </tr> 
 </table>
-
+</div>
 ---
 
 <div align="center">
