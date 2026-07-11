@@ -35,52 +35,55 @@ const carlos = {
 
 ---
 ## Stack
+
 <div align="center">
 
-<table width="100%"> 
- 
-  <tr>
-    <td width="50%"><strong>Languages</strong></td> 
-    <td width="50%" align='right'>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td width='50%'><strong>Frontend</strong></td> 
-    <td width='50%' align='right'>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width='50%'><strong>Backend</strong></td> 
-    <td width='50%' align='right'>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-404D59?style=flat-square" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width='50%'><strong>Databases</strong></td> 
-    <td width='50%' align='right'>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width='50%'><strong>Infra & DevOps</strong></td> 
-    <td width='50%' align='right'>
-      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    </td>
-  </tr> 
-</table>
+  <table width="100%"> 
+   
+    <tr>
+      <td width="50%"><strong>Languages</strong></td> 
+      <td width="50%" align='right'>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td width='50%'><strong>Frontend</strong></td> 
+      <td width='50%' align='right'>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td width='50%'><strong>Backend</strong></td> 
+      <td width='50%' align='right'>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-404D59?style=flat-square" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td width='50%'><strong>Databases</strong></td> 
+      <td width='50%' align='right'>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td width='50%'><strong>Infra & DevOps</strong></td> 
+      <td width='50%' align='right'>
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+      </td>
+    </tr> 
+  </table>
+
 </div>
+
 ---
 
 <div align="center">
