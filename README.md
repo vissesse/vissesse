@@ -15,6 +15,7 @@ My main areas of expertise:
 Here you can find my projects, experiments, and contributions.
 
 🌐 Portfolio: <a href="https://vissesse.github.io/">@vissesse</a> 
+</br>
 💼 LinkedIn: <a href="linkedin.com/in/vissesse">@in/vissesse</a>
 
 <div ><br> <br> 
